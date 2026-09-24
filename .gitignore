@@ -1,0 +1,10 @@
+.env
+.env.*
+*.token
+*.key
+*.pem
+secrets/
+private/
+exports/raw-gmail/
+.DS_Store
+Thumbs.db
